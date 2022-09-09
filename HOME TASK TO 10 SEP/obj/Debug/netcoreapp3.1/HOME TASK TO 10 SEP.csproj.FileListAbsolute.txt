@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\HOME TASK TO 10 SEP\HOME TASK TO 10 SEP\obj\Debug\netcoreapp3.1\HOME TASK TO 10 SEP.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\HOME TASK TO 10 SEP\HOME TASK TO 10 SEP\obj\Debug\netcoreapp3.1\HOME TASK TO 10 SEP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\HOME TASK TO 10 SEP\HOME TASK TO 10 SEP\obj\Debug\netcoreapp3.1\HOME TASK TO 10 SEP.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HOME TASK TO 10 SEP\HOME TASK TO 10 SEP\obj\Debug\netcoreapp3.1\HOME TASK TO 10 SEP.AssemblyInfo.cs
+C:\Users\HP\source\repos\HOME TASK TO 10 SEP\HOME TASK TO 10 SEP\obj\Debug\netcoreapp3.1\HOME TASK TO 10 SEP.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HOME TASK TO 10 SEP\HOME TASK TO 10 SEP\bin\Debug\netcoreapp3.1\HOME TASK TO 10 SEP.exe
+C:\Users\HP\source\repos\HOME TASK TO 10 SEP\HOME TASK TO 10 SEP\bin\Debug\netcoreapp3.1\HOME TASK TO 10 SEP.deps.json
+C:\Users\HP\source\repos\HOME TASK TO 10 SEP\HOME TASK TO 10 SEP\bin\Debug\netcoreapp3.1\HOME TASK TO 10 SEP.runtimeconfig.json
+C:\Users\HP\source\repos\HOME TASK TO 10 SEP\HOME TASK TO 10 SEP\bin\Debug\netcoreapp3.1\HOME TASK TO 10 SEP.runtimeconfig.dev.json
+C:\Users\HP\source\repos\HOME TASK TO 10 SEP\HOME TASK TO 10 SEP\bin\Debug\netcoreapp3.1\HOME TASK TO 10 SEP.dll
+C:\Users\HP\source\repos\HOME TASK TO 10 SEP\HOME TASK TO 10 SEP\bin\Debug\netcoreapp3.1\HOME TASK TO 10 SEP.pdb
+C:\Users\HP\source\repos\HOME TASK TO 10 SEP\HOME TASK TO 10 SEP\obj\Debug\netcoreapp3.1\HOME TASK TO 10 SEP.dll
+C:\Users\HP\source\repos\HOME TASK TO 10 SEP\HOME TASK TO 10 SEP\obj\Debug\netcoreapp3.1\HOME TASK TO 10 SEP.pdb
+C:\Users\HP\source\repos\HOME TASK TO 10 SEP\HOME TASK TO 10 SEP\obj\Debug\netcoreapp3.1\HOME TASK TO 10 SEP.genruntimeconfig.cache
+C:\Users\HP\source\repos\HOME TASK TO 10 SEP\HOME TASK TO 10 SEP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\HOME TASK TO 10 SEP\HOME TASK TO 10 SEP\obj\Debug\netcoreapp3.1\HOME TASK TO 10 SEP.csproj.CopyComplete
